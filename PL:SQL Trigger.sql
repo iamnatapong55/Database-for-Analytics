@@ -1,5 +1,4 @@
--- Assignment7 Part 3
--- Natapong Sornprom
+
 -- create tables
 
 drop table memberof;
