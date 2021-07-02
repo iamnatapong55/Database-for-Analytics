@@ -1,4 +1,4 @@
-# Midterm Part4 Question#4c
+
 
 with open('Midterm_Part4B.txt', 'r') as file:
     content = file.readlines()           # read all lines
