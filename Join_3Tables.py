@@ -1,4 +1,4 @@
-# Midterm Part4 Question#4b
+
 import sqlite3
 
 Student = '''CREATE TABLE Student(
